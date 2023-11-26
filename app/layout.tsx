@@ -9,7 +9,7 @@ import BackToTopButton from '@/components/BackToTopButton'
 
 export const metadata: Metadata = {
   title: 'THE INSTANEWS',
-  description: 'The Insta News - Get the Latest News Anytime Anywhere with DevNews.',
+  description: 'The Insta News - Get the Latest News Anytime Anywhere with InstaNews.',
   applicationName: 'THE Insta NEWS',
   manifest: '/manifest.json',
   keywords: ['insta-news', 'open-source', 'insta', 'insta news', 'nextjs project', 'mediastck', 'news', 'news app', 'news web app', 'nextjs pwa app'],
